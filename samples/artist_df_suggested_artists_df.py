@@ -61,5 +61,5 @@ print(rel_df)
 # example only if popularity is >= 70
 print(rel_df[rel_df['popularity']>=70].sort_values('popularity',ascending=False))
 # example only if popularity is <= 40 
-print(rel_df[rel_df['popularity']>=40].sort_values('popularity',ascending=False))    
+print(rel_df[rel_df['popularity']<=40].sort_values('popularity',ascending=False))    
     
