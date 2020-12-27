@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Dec 26 17:08:40 2020
+@author: falble
+"""
+
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd
