@@ -1,0 +1,503 @@
+Listing the last (50) played songs:
+-------------------------------------------------------
+-------------------------------------------------------
+artist(s): The Strokes
+song title: Why Are Sundays So Depressing
+album: The New Abnormal
+popularity: 65
+href: https://api.spotify.com/v1/tracks/1aOxOpH4AkGAd8OMrKjyNY
+-------------------------------------------------------
+2020-12-27T17:46:14.608Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Green Day
+song title: One Of My Lies
+album: Kerplunk
+popularity: 29
+href: https://api.spotify.com/v1/tracks/75GU5mkJo4OY2YjGykJCoU
+-------------------------------------------------------
+2020-12-27T17:41:38.394Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Prozac+
+song title: Acida
+album: Acidoacida
+popularity: 52
+href: https://api.spotify.com/v1/tracks/00NIByhDqGWbptOjm0dU4f
+-------------------------------------------------------
+2020-12-27T17:39:18.789Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Arctic Monkeys
+song title: From The Ritz To The Rubble
+album: Whatever People Say I Am, That's What I'm Not
+popularity: 65
+href: https://api.spotify.com/v1/tracks/2vQQfWTanvD99OeHLAoyhW
+-------------------------------------------------------
+2020-12-27T17:36:40.412Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Oasis
+song title: Stop Crying Your Heart Out
+album: Heathen Chemistry
+popularity: 68
+href: https://api.spotify.com/v1/tracks/5YciOakY5dB5dULkiLdCaf
+-------------------------------------------------------
+2020-12-27T17:33:26.734Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Catfish and the Bottlemen
+song title: Cocoon
+album: The Balcony
+popularity: 65
+href: https://api.spotify.com/v1/tracks/1B241LRKmK6qDDTZfUajmm
+-------------------------------------------------------
+2020-12-27T17:28:23.058Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Vaccines
+song title: Post Break-Up Sex
+album: What Did You Expect from The Vaccines?
+popularity: 56
+href: https://api.spotify.com/v1/tracks/47oXAoC5TynVLCZ3FKb0gC
+-------------------------------------------------------
+2020-12-27T17:24:25.825Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Arctic Monkeys
+song title: Despair In The Departure Lounge
+album: Who The F*** Are Arctic Monkeys?
+popularity: 55
+href: https://api.spotify.com/v1/tracks/605E2oDpy3uSIhbRFcrQyn
+-------------------------------------------------------
+2020-12-27T17:21:30.963Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Fratellis
+song title: Chelsea Dagger
+album: Costello Music
+popularity: 67
+href: https://api.spotify.com/v1/tracks/1bCmvezFg5MRcENzCGG1Cy
+-------------------------------------------------------
+2020-12-27T17:18:07.410Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Oasis
+song title: The Nature Of Reality
+album: Dig Out Your Soul
+popularity: 15
+href: https://api.spotify.com/v1/tracks/5gy7HEieMo6kjbGC03N2Rx
+-------------------------------------------------------
+2020-12-27T17:14:31.494Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Old Crow Medicine Show
+song title: Wagon Wheel
+album: O.C.M.S.
+popularity: 65
+href: https://api.spotify.com/v1/tracks/359krpyCKcFF8SFvqWES9L
+-------------------------------------------------------
+2020-12-27T17:10:43.184Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Cage The Elephant
+song title: Night Running
+album: Social Cues
+popularity: 60
+href: https://api.spotify.com/v1/tracks/0wSmZykDgah7GfaUNZUZCb
+-------------------------------------------------------
+2020-12-27T17:06:50.527Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Strokes
+song title: Is This It
+album: Is This It
+popularity: 57
+href: https://api.spotify.com/v1/tracks/2pAD0PKMUMtxlMvz33tYzB
+-------------------------------------------------------
+2020-12-27T17:03:22.060Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Arctic Monkeys
+song title: Chun Li Flying Bird Kick
+album: I Bet You Look Good On The Dancefloor
+popularity: 38
+href: https://api.spotify.com/v1/tracks/4DLLB9erwRrOPPVQLitCyV
+-------------------------------------------------------
+2020-12-27T17:00:50.223Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Smiths
+song title: Ask - 2011 Remaster
+album: Louder Than Bombs
+popularity: 58
+href: https://api.spotify.com/v1/tracks/2AdRSHeYmDGMrgIfiS2w7K
+-------------------------------------------------------
+2020-12-27T16:56:09.002Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Joy Division
+song title: Shadowplay - 2007 Remaster
+album: Unknown Pleasures (Collector's Edition)
+popularity: 59
+href: https://api.spotify.com/v1/tracks/4ZuC5MfGjRQs3pZtPxqMYP
+-------------------------------------------------------
+2020-12-27T16:52:50.457Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Operation Ivy
+song title: Bad Town - 2007 Remaster
+album: Operation Ivy (2007 Remaster)
+popularity: 41
+href: https://api.spotify.com/v1/tracks/0ukrbMIdueAqU6EKttnzwS
+-------------------------------------------------------
+2020-12-27T16:48:56.165Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Lawrence Arms
+song title: Right as Rain, Pt. 2
+album: Apathy and Exhaustion
+popularity: 21
+href: https://api.spotify.com/v1/tracks/4nJI5jO2NFZIoTi9CAHMOM
+-------------------------------------------------------
+2020-12-27T16:46:20.588Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Rino Gaetano
+song title: Ti ti ti ti
+album: E Io Ci Sto
+popularity: 39
+href: https://api.spotify.com/v1/tracks/5UhAB2aZrLnBeo50TYo23S
+-------------------------------------------------------
+2020-12-27T16:43:42.243Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Kaiser Chiefs
+song title: Everyday I Love You Less And Less
+album: Employment
+popularity: 57
+href: https://api.spotify.com/v1/tracks/5dvBeCMTzUNjyWIcuykzyh
+-------------------------------------------------------
+2020-12-27T16:40:24.211Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Prozac+
+song title: ICS
+album: Acidoacida
+popularity: 18
+href: https://api.spotify.com/v1/tracks/18NwBgRBFITXRgkVH24Er1
+-------------------------------------------------------
+2020-12-27T16:36:45.782Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Iggy Pop
+song title: Lust For Life
+album: Lust For Life
+popularity: 67
+href: https://api.spotify.com/v1/tracks/21YxK0klhpfLW8budkJaMF
+-------------------------------------------------------
+2020-12-27T16:33:12.008Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Clash
+song title: Safe European Home - Remastered
+album: Hits Back
+popularity: 28
+href: https://api.spotify.com/v1/tracks/3SxjO4ee7oxRl7Y4gOdUIt
+-------------------------------------------------------
+2020-12-27T16:27:57.409Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Cage The Elephant
+song title: Ready To Let Go
+album: Social Cues
+popularity: 63
+href: https://api.spotify.com/v1/tracks/4UyAtnwhaKv7EG1BdkBYRI
+-------------------------------------------------------
+2020-12-27T16:24:06.096Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Strokes
+song title: Last Nite
+album: Is This It
+popularity: 72
+href: https://api.spotify.com/v1/tracks/7kzKAuUzOITUauHAhoMoxA
+-------------------------------------------------------
+2020-12-27T16:20:57.852Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Arctic Monkeys
+song title: Leave Before The Lights Come On
+album: Leave Before The Lights Come On
+popularity: 58
+href: https://api.spotify.com/v1/tracks/4Du0BRUJvKybzxcRplp7HF
+-------------------------------------------------------
+2020-12-27T16:17:43.972Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Santana
+song title: The Calling (feat. Eric Clapton)
+album: Supernatural (Remastered)
+popularity: 47
+href: https://api.spotify.com/v1/tracks/7zXTkSIG2rCEV1zkN7eprO
+-------------------------------------------------------
+2020-12-27T16:13:29.783Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Santana
+song title: The Calling (feat. Eric Clapton)
+album: Supernatural (Remastered)
+popularity: 47
+href: https://api.spotify.com/v1/tracks/7zXTkSIG2rCEV1zkN7eprO
+-------------------------------------------------------
+2020-12-27T16:09:46.217Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Oasis
+song title: Half the World Away - Remastered
+album: Definitely Maybe (Remastered)
+popularity: 54
+href: https://api.spotify.com/v1/tracks/6z1Xz89avh1KA7d3Ek7DQP
+-------------------------------------------------------
+2020-12-27T15:34:53.730Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Strumbellas
+song title: Spirits
+album: Hope
+popularity: 54
+href: https://api.spotify.com/v1/tracks/6yDXmurL5FA9Rjn94cRp2g
+-------------------------------------------------------
+2020-12-27T15:30:25.927Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Network
+song title: Art Of The Deal With The Devil
+album: Money Money 2020 Pt II: We Told Ya So!
+popularity: 37
+href: https://api.spotify.com/v1/tracks/6TUNkfTKEVapMKifAx0kNT
+-------------------------------------------------------
+2020-12-27T15:27:02.458Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Jawbreaker
+song title: Accident Prone
+album: Dear You
+popularity: 47
+href: https://api.spotify.com/v1/tracks/2Dqgj2nE6RwZKocWsWqXcG
+-------------------------------------------------------
+2020-12-27T15:23:29.565Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Kings of Convenience
+song title: Homesick
+album: Riot On An Empty Street
+popularity: 57
+href: https://api.spotify.com/v1/tracks/0WeqauIUZSjsupDGXsXWsP
+-------------------------------------------------------
+2020-12-27T15:17:06.625Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Green Day
+song title: Tired of Waiting for You
+album: Shenanigans
+popularity: 32
+href: https://api.spotify.com/v1/tracks/5cu6CdQxySZx50NwR3iMst
+-------------------------------------------------------
+2020-12-27T15:13:25.766Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Ramones
+song title: She Talks to Rainbows
+album: Adios Amigos
+popularity: 34
+href: https://api.spotify.com/v1/tracks/0GVcm9IeiuWWOQk3yXI7yx
+-------------------------------------------------------
+2020-12-27T15:10:30.972Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Clash
+song title: Know Your Rights - Remastered
+album: Combat Rock (Remastered)
+popularity: 43
+href: https://api.spotify.com/v1/tracks/31l6t3Jq09uywRTVGbzant
+-------------------------------------------------------
+2020-12-27T15:07:05.373Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Smiths
+song title: This Charming Man - 2011 Remaster
+album: The Smiths
+popularity: 73
+href: https://api.spotify.com/v1/tracks/1FvDJ9KGxcqwv1utyPL3JZ
+-------------------------------------------------------
+2020-12-27T15:02:20.865Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Radiohead
+song title: Karma Police
+album: OK Computer
+popularity: 71
+href: https://api.spotify.com/v1/tracks/63OQupATfueTdZMWTxW03A
+-------------------------------------------------------
+2020-12-27T14:58:52.742Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Menzingers
+song title: Anna - From Exile
+album: From Exile
+popularity: 39
+href: https://api.spotify.com/v1/tracks/5Obg180iICxF8iiy76UAKd
+-------------------------------------------------------
+2020-12-27T14:53:38.121Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Cage The Elephant
+song title: Telescope
+album: Melophobia
+popularity: 58
+href: https://api.spotify.com/v1/tracks/272WzJYX3bXteV3cbfGeK6
+-------------------------------------------------------
+2020-12-27T14:50:20.493Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Libertines
+song title: Gunga Din
+album: Anthems For Doomed Youth (Deluxe)
+popularity: 44
+href: https://api.spotify.com/v1/tracks/0XPi8NgpZZ7YkivJjq0Nzt
+-------------------------------------------------------
+2020-12-27T14:46:31.694Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Ramones
+song title: Needles and Pins - 2018 Remaster
+album: Road to Ruin (2018 Remaster)
+popularity: 27
+href: https://api.spotify.com/v1/tracks/41Cg3v81kvz9La7BEAEnVs
+-------------------------------------------------------
+2020-12-27T14:43:32.239Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): The Lawrence Arms
+song title: Are You There Margaret? It's Me, God
+album: Oh! Calcutta!
+popularity: 34
+href: https://api.spotify.com/v1/tracks/2iR5ItVdY6WTMvPEgNT3ri
+-------------------------------------------------------
+2020-12-27T14:33:25.739Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/2rQTtxMfmdrQOWHeEbStwM'}, 'href': 'https://api.spotify.com/v1/playlists/2rQTtxMfmdrQOWHeEbStwM', 'type': 'playlist', 'uri': 'spotify:playlist:2rQTtxMfmdrQOWHeEbStwM'}
+-------------------------------------------------------
+artist(s): Litfiba
+song title: Sexy Dream
+album: Infinito
+popularity: 19
+href: https://api.spotify.com/v1/tracks/00nj3wLXUZHUDYAqWbMCHC
+-------------------------------------------------------
+2020-12-27T14:29:51.305Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/3wTFfrx12I7w5nJsPLE5DL'}, 'href': 'https://api.spotify.com/v1/playlists/3wTFfrx12I7w5nJsPLE5DL', 'type': 'playlist', 'uri': 'spotify:playlist:3wTFfrx12I7w5nJsPLE5DL'}
+-------------------------------------------------------
+artist(s): Nada
+song title: Senza Un Perché
+album: Tutto L'amore Che Mi Manca
+popularity: 51
+href: https://api.spotify.com/v1/tracks/21S6EicU7LXhS4ampzsOAQ
+-------------------------------------------------------
+2020-12-27T14:25:12.910Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/3wTFfrx12I7w5nJsPLE5DL'}, 'href': 'https://api.spotify.com/v1/playlists/3wTFfrx12I7w5nJsPLE5DL', 'type': 'playlist', 'uri': 'spotify:playlist:3wTFfrx12I7w5nJsPLE5DL'}
+-------------------------------------------------------
+artist(s): Gnarls Barkley
+song title: Crazy
+album: St. Elsewhere
+popularity: 76
+href: https://api.spotify.com/v1/tracks/1vxw6aYJls2oq3gW0DujAo
+-------------------------------------------------------
+2020-12-27T14:22:27.756Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/3wTFfrx12I7w5nJsPLE5DL'}, 'href': 'https://api.spotify.com/v1/playlists/3wTFfrx12I7w5nJsPLE5DL', 'type': 'playlist', 'uri': 'spotify:playlist:3wTFfrx12I7w5nJsPLE5DL'}
+-------------------------------------------------------
+artist(s): Gnarls Barkley
+song title: Crazy
+album: St. Elsewhere
+popularity: 76
+href: https://api.spotify.com/v1/tracks/1vxw6aYJls2oq3gW0DujAo
+-------------------------------------------------------
+2020-12-27T14:22:13.815Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/3wTFfrx12I7w5nJsPLE5DL'}, 'href': 'https://api.spotify.com/v1/playlists/3wTFfrx12I7w5nJsPLE5DL', 'type': 'playlist', 'uri': 'spotify:playlist:3wTFfrx12I7w5nJsPLE5DL'}
+-------------------------------------------------------
+artist(s): Cesare Cremonini
+song title: Marmellata #25
+album: Maggese
+popularity: 56
+href: https://api.spotify.com/v1/tracks/1b8tFExEyHyxTzrrlQAsu4
+-------------------------------------------------------
+2020-12-27T14:19:24.505Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/3wTFfrx12I7w5nJsPLE5DL'}, 'href': 'https://api.spotify.com/v1/playlists/3wTFfrx12I7w5nJsPLE5DL', 'type': 'playlist', 'uri': 'spotify:playlist:3wTFfrx12I7w5nJsPLE5DL'}
+-------------------------------------------------------
+artist(s): Moby
+song title: Porcelain
+album: Play
+popularity: 69
+href: https://api.spotify.com/v1/tracks/1hEh8Hc9lBAFWUghHBsCel
+-------------------------------------------------------
+2020-12-27T14:10:42.444Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/3wTFfrx12I7w5nJsPLE5DL'}, 'href': 'https://api.spotify.com/v1/playlists/3wTFfrx12I7w5nJsPLE5DL', 'type': 'playlist', 'uri': 'spotify:playlist:3wTFfrx12I7w5nJsPLE5DL'}
+-------------------------------------------------------
+artist(s): Freddie Mercury
+song title: Living On My Own - 2011 Remaster
+album: The Platinum Collection (2011 Remaster)
+popularity: 38
+href: https://api.spotify.com/v1/tracks/5EyrSES4OYcUxpZdhO1MQj
+-------------------------------------------------------
+2020-12-27T14:04:35.039Z
+-------------------------------------------------------
+{'external_urls': {'spotify': 'https://open.spotify.com/playlist/3wTFfrx12I7w5nJsPLE5DL'}, 'href': 'https://api.spotify.com/v1/playlists/3wTFfrx12I7w5nJsPLE5DL', 'type': 'playlist', 'uri': 'spotify:playlist:3wTFfrx12I7w5nJsPLE5DL'}
+-------------------------------------------------------
