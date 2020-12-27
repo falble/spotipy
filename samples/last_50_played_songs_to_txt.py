@@ -65,6 +65,8 @@ redirect_uri = "http://localhost:8888/callback/"
 CLIENT_ID = 'YOUR_APP_CLIENT_ID'
 CLIENT_SECRET = 'YOUR_APP_CLIENT_SECRET'
 
+# this call is just to print the current user, can be commented or eliminated, i wrote this one just to show the difference in scope (scope_0 vs scope)
+# i uploaded a txt containing the different scopes that can be used
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope_0, 
                                                 client_id=CLIENT_ID,
                                                 client_secret=CLIENT_SECRET,
