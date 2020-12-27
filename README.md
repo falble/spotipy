@@ -10,11 +10,11 @@ import spotipy
 # anonymous calls
 from spotipy.oauth2 import SpotifyClientCredentials
 
-CLIENT_ID = YOUR_APP_CLIENT_ID"
+CLIENT_ID = "YOUR_APP_CLIENT_ID"
 CLIENT_SECRET = "YOUR_APP_CLIENT_SECRET"
 
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="YOUR_APP_CLIENT_ID",
-                                                           client_secret="YOUR_APP_CLIENT_SECRET"))
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=CLIENT_ID,
+                                                           client_secret=CLIENT_SECRET))
 ```
 ```python
 # authorized calls
