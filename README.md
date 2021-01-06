@@ -32,8 +32,8 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope,
                                                 ))
 
 ```
-The repository is divided into two main folders. One contains the individual functions, the other contains small use cases. Both will be updated whenever I am bored. 
-This repository is intended to be nothing more than a funny hobby. 
+The repository is divided into two main folders. One contains the individual functions, the other contains small use cases.
+
 
 Here you can find a more structured repository for spotipy applications:
 
